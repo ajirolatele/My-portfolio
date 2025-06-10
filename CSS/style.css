@@ -1,0 +1,12 @@
+img {
+        width: 300px;
+        border-radius: 30px;
+        float: right;
+        margin-right: 30px;
+      }
+      .intro {
+        margin-left: 30px;
+      }
+      h1 {
+        margin-top: 80px;
+      }
